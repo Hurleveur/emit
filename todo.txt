@@ -1,0 +1,11 @@
+concept: can invert time at any point, hard to die
+
+automatically generated map, 2D, made with godot
+theme: element maps (earth, under the seaaa, clouds, lava) with portals to go trough each
+
+basic concept: map moving to the left and right depending on time flow
+
+
+new concept: top down view of person riding bike going trough city not killing anyone
+https://www.freepik.com/premium-vector/bicycle-top-view-people-driving-bike-helmet-riders-moped-cycle-road-traffic-illustrations_8895217.htm#fromView=search&page=1&position=30&uuid=a8edb10a-dcfc-4eca-b376-8c04799dab80
+https://www.freepik.com/free-vector/top-view-people-doing-activities-illustration_1169119.htm#fromView=search&page=1&position=3&uuid=cc3fc62b-3b37-4e33-b16d-91b01ce4c9e8
